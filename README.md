@@ -1,6 +1,6 @@
 <div align="center">
     <h1>🚀 About Me</h1>
-    <p>I'm a Brazilian Software Engineer specializing in System Analysis and Development. My technical range is broad, covering Cloud platform Microsoft Azure, Fullstack Coding and Database.</p>
+    <p>I'm a Brazilian Software Engineer specializing in System Analysis and Development. My technical range is Fullstack Coding and Database.</p>
 </div>
 
 <div align="center">
