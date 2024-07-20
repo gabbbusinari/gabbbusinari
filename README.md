@@ -15,7 +15,7 @@
 </div> 
 
 <div align="center">
-  <h3>🔧 Frameworks</h3>
+  <h2>🔧 Frameworks</h2>
   <p>Frameworks are the barebones of my development process, providing the structure and tools necessary for building scalablem efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
     <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
